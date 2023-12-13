@@ -1,0 +1,4 @@
+{
+  "extends": "@tridapallil/ts-config/base.json",
+  "include": ["src"]
+}
